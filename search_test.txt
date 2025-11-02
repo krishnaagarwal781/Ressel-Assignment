@@ -1,0 +1,4 @@
+This is a test file.
+It contains a keyword that I will search for.
+The keyword is "Krishna".
+This file will be used to test the search_in_file tool.
